@@ -1,6 +1,24 @@
 # Auth System
 Auth System with Users management
 
+## Start
+
+Require Composer Packages
+
+``composer install``
+
+Run migrations
+
+``php artisan migrate``
+
+Run the server
+
+``php artisan serve``
+
+## Tests
+
+``php artisan test``
+
 ## TEST INSTRUCTIONS
 
 ### Build a login system with this functionality
